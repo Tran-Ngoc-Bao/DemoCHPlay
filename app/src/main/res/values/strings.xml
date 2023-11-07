@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">CH Play Demo</string>
+
+    <string-array name="nameList">
+        <item>Ứng dụng giáo dục</item>
+        <item>Đề xuất cho bạn</item>
+        <item>Ứng dụng phổ biến</item>
+        <item>Học ngôn ngữ</item>
+        <item>Ứng dụng có tính phí</item>
+    </string-array>
+
+    <string-array name="nameApp">
+        <item>Duolingo: Học ngoại ngữ</item>
+        <item>The Coach: tiếng Anh giao tiếp</item>
+        <item>Quizlet: Thẻ ghi nhớ hỗ trợ AI</item>
+        <item>Todaii: Học tiếng Nhật</item>
+        <item>Từ Điển Học Tiếng Nhật | Mazii</item>
+        <item>Trình Đọc Office, Đọc Văn Bản</item>
+        <item>TikTok Lite</item>
+        <item>11.11 Shopee Live</item>
+        <item>Pure Tuber: Khóa Ad cho video</item>
+        <item>Google Dịch</item>
+        <item>Telegram</item>
+        <item>VNeID</item>
+        <item>Locket Widget</item>
+        <item>CheckMath: Giải Bài Tập Toán</item>
+        <item>11.11 Shopee Live</item>
+        <item>4English - Tự học tiếng Anh</item>
+        <item>ELSA Speak: Học nói tiếng Anh</item>
+        <item>Cake - Học Tiếng Anh và Tiếng Hàn</item>
+        <item>Pleco Chinese Dictionary</item>
+        <item>Duolingo: Học ngoại ngữ</item>
+        <item>3D EARTH PRO - local forecast</item>
+        <item>SkyView Explore the Universe</item>
+        <item>Lunescope Pro: Moon Phases+</item>
+        <item>Periodic Table 2023 PRO</item>
+        <item>ibis Paint</item>
+    </string-array>
+
+    <string-array name="rate">
+        <item>4,7</item>
+        <item>4,8</item>
+        <item>4,7</item>
+        <item>4,9</item>
+        <item>4,8</item>
+        <item>4,8</item>
+        <item>4,2</item>
+        <item>3,7</item>
+        <item>4,4</item>
+        <item>4,0</item>
+        <item>3,5</item>
+        <item>3,0</item>
+        <item>3,5</item>
+        <item>3,8</item>
+        <item>3,7</item>
+        <item>4,7</item>
+        <item>4,7</item>
+        <item>4,8</item>
+        <item>4,6</item>
+        <item>4,7</item>
+        <item>3,9</item>
+        <item>4,2</item>
+        <item>5,0</item>
+        <item>4,9</item>
+        <item>4,4</item>
+    </string-array>
+</resources>
